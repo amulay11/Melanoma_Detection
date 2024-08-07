@@ -31,5 +31,5 @@ Problem statement: To build a CNN based model which can accurately detect melano
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@amulay11] - feel free to contact me!
 
